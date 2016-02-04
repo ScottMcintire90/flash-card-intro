@@ -9,3 +9,10 @@
 .clickable:hover {
   text-decoration: underline;
 }
+h1 {
+  font-family: cursive;
+}
+
+p {
+  font-size: 100px;
+}
